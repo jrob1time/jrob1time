@@ -13,4 +13,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jeremyrobinson13/)
 
-- [Website](https://jeremyrobinson-portfolio.netlify.app/)
+- [Website](https://portfolio-jeremyrobinson.netlify.app/)
